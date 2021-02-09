@@ -7,3 +7,4 @@ HLS 技術で動画を ABR（アダプティブビットレート）形式で配
 ・Windows OS
 ・fffmpeg のインストール
 ・HandBrake であらかじめある程度動画を圧縮しておく
+・CFR タイプじゃないとだめ
