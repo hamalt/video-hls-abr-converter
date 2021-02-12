@@ -19,5 +19,5 @@ Homebrewのアップグレード＋インストールされているパッケー
 HomebrewでFFmpegのインストール
 `$ brew install ffmpeg`
 
-## Windows向けのFFmpegダウンロードURL
+## Windows向けのFFmpegダウンロードURL
 [FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds/releases)
