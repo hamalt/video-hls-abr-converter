@@ -5,6 +5,19 @@ HLS 技術で動画を ABR（アダプティブビットレート）形式で配
 ## 前提
 
 ・Windows OS
-・fffmpeg のインストール
+・[FFmpeg](https://www.ffmpeg.org/)のインストール
 ・HandBrake であらかじめある程度動画を圧縮しておく
 ・CFR タイプじゃないとだめ
+
+
+## MacでFFmpegのインストール
+Homebrewを使う前提です。
+
+Homebrewのアップグレード＋インストールされているパッケージの更新
+`$ brew upgrade`
+
+HomebrewでFFmpegのインストール
+`$ brew install ffmpeg`
+
+
+
