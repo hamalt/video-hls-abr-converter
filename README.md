@@ -25,8 +25,6 @@ HomebrewでFFmpegのインストール
 
 ## 手順
 
-Macの場合、予め「360p」「720p」「1080p」ディレクトリをconvert.shと同階層に作成しておく必要があります。
-
 0. 予め動画をWeb用に軽量化する
 1. 動画ファイルを`video.mp4`という名前にしてルートディレクトリに入れる
 2. Windowsなら`convert.bat`、Macなら`convert.sh`を実行する
