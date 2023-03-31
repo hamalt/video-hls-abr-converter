@@ -1,6 +1,8 @@
 node_modules
 .vscode
+.DS_Store
 video.mp4
+output.mp4
 360p/*
 720p/*
 1080p/*
