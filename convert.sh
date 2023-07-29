@@ -1,5 +1,5 @@
 ﻿# 動画を軽量化し、互換性の高いMP4形式で出力
-ffmpeg -i video.mp4 -c:v libx264 -crf 23 -c:a aac -b:a 128k -vf scale=-1:720 -pix_fmt yuv420p -movflags +faststart output.mp4
+ffmpeg -i video.mp4 -c:v libx264 -crf 18 -c:a aac -b:a 128k -pix_fmt yuv420p -movflags +faststart output.mp4
 
 # 必要なディレクトリを作成
 mkdir ./1080p ./720p ./360p
